@@ -1,11 +1,11 @@
 # MultipleFacesRecognition
 
 This Application detects multiple faces in a image,
-To Detect Multiple Faces I used Clarifai API which is free face detection API
-I also Used Particle.Js In the Front End.
 
 This Application is made by using PERN stack
 where front-end is built in ReactJS and Back-end is built in NodeJs and For Database PostGreSql is used.
+To Detect Multiple Faces I used Clarifai API which is free face detection API.
+I also Used Particle.Js In the Front End.
 
 To Run this Project,
 Just Download this project
